@@ -1,0 +1,2 @@
+# saSSy
+Školní pezpečnostní projekt
