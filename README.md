@@ -16,7 +16,7 @@ Tento projekt implementuje poplachový systém založený na SMS notifikacích. 
 - **Hlavní řídicí jednotka:** Raspberry Pi 5
 - **Komunikační modul:** GSM modul (AT příkazy pro SMS)
 - **Databáze:** SQLite (lokální evidence uživatelů, logů a SMS událostí)
-- **Webové rozhraní:** PHP + HTML/CSS pro administraci a zadávání kódů
+- **Webové rozhraní:** Node.js + HTML/CSS pro administraci a zadávání kódů
 - **Hardwarová tlačítka:** Připojena přes RJ11 (s převodem na GPIO)
 
 ## Plán projektu
